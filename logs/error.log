@@ -1,0 +1,29 @@
+[2024-05-17T09:57:24.865Z] 500 - (intermediate value).filter is not a function - /products - GET
+[2024-05-17T10:30:40.160Z] 401 - Login first - /orders/new - POST
+[2024-05-20T06:57:59.344Z] 500 - jwt expired - /orders/new - POST
+[2024-05-20T07:00:16.882Z] 500 - Cannot read properties of undefined (reading 'toString') - /admin/orders/664af4dfb824d4e8e4999c88 - PUT
+[2024-05-20T07:01:47.244Z] 500 - Cannot read properties of undefined (reading 'toString') - /admin/orders/664af4dfb824d4e8e4999c88 - PUT
+[2024-05-20T07:09:41.669Z] 500 - Cannot read properties of undefined (reading 'toString') - /admin/orders/664af4dfb824d4e8e4999c88 - PUT
+[2024-05-20T07:16:32.041Z] 500 - Cannot read properties of undefined (reading 'toString') - /admin/orders/66473e2cbefd971209ce7ab3 - PUT
+[2024-05-20T07:17:25.145Z] 500 - Cannot read properties of undefined (reading 'toString') - /admin/orders/66473e2cbefd971209ce7ab3 - PUT
+[2024-05-20T07:22:18.591Z] 404 - Product not found - /products/664af4dfb824d4e8e4999c89 - GET
+[2024-05-20T07:23:39.155Z] 404 - Product not found - /products/664afa6798abe93432b97c45 - GET
+[2024-05-20T07:30:37.652Z] 500 - orderItemsWithProductIds is not defined - /orders/new - POST
+[2024-05-20T10:49:02.189Z] 401 - Login first to access this resource. - /orders/new - POST
+[2024-05-20T10:49:20.621Z] 403 - Role (user) is not allowed to access this resource. - /admin/orders/664b0015d61d944477b9a991 - PUT
+[2024-05-21T05:38:20.827Z] 401 - Login first to access this resource. - /orders/new - POST
+[2024-05-21T05:57:58.460Z] 401 - Login first to access this resource. - /admin/orders/664b0015d61d944477b9a991 - PUT
+[2024-05-21T05:58:16.431Z] 403 - Role (user) is not allowed to access this resource. - /admin/orders/664b0015d61d944477b9a991 - PUT
+[2024-05-21T06:09:03.578Z] 401 - Login first to access this resource. - /admin/orders/664b0015d61d944477b9a991 - PUT
+[2024-05-21T07:20:27.504Z] 401 - Login first to access this resource. - /me/orders - GET
+[2024-05-21T07:20:55.771Z] 403 - Role (user) is not allowed to access this resource. - /admin/orders/664b0015d61d944477b9a991 - PUT
+[2024-05-21T07:21:03.737Z] 403 - Role (user) is not allowed to access this resource. - /admin/orders/664592499af7f32ddce5c228 - DELETE
+[2024-05-23T05:52:03.690Z] 400 - Please enter a valid email address. - /register - POST
+[2024-05-23T05:52:45.893Z] 500 - jwt expired - /products - GET
+[2024-05-23T05:53:33.848Z] 400 - This email ID is already in use. - /register - POST
+[2024-05-23T05:53:45.847Z] 400 - This email ID is already in use. - /register - POST
+[2024-05-23T05:53:54.155Z] 500 - jwt expired - /products - GET
+[2024-05-23T05:54:04.177Z] 500 - jwt expired - /products?keyword=modified - GET
+[2024-05-23T05:54:16.156Z] 401 - Invalid email or password. - /login - POST
+[28/5/2024, 10:22:28 am] 500 - jwt expired - /products - GET
+[28/5/2024, 10:24:14 am] 500 - Cannot set headers after they are sent to the client - /login - POST
